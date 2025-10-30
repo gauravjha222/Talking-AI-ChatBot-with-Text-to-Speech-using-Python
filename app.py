@@ -4,9 +4,9 @@ import elevenlabs
 from queue import Queue
 
 # Set API keys
-aai.settings.api_key = "API-KEY"
-openai.api_key = "API-KEY"
-elevenlabs.set_api_key("API-KEY") 
+aai.settings.api_key = "e33712675652436cbdce680faa2781a4"
+openai.api_key = "OPENAI_API_KEY"
+elevenlabs.set_api_key("sk_632447d65c1d0b7e6b481c4569c7d48d89e34e24b379930b") 
 
 transcript_queue = Queue()
 
