@@ -1,5 +1,6 @@
 
-assemblyai
-openai
-elevenlabs
-streamlit
+assemblyai>=1.0
+openai>=0.27
+elevenlabs>=0.2
+streamlit>=1.30
+pyaudio>=0.2.13
