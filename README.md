@@ -30,4 +30,18 @@ Queue — to manage incoming transcripts
 
 
 
+<h2>  How to run the Streamlit app </h2>
 
+Install dependencies:
+
+pip install -r requirements.txt
+
+
+Run the app:
+
+streamlit run main.py
+
+
+Open the URL provided in the terminal, usually http://localhost:8501.
+
+This setup gives you both a terminal-based AI assistant (app.py) and a web-based interactive version (main.py).
