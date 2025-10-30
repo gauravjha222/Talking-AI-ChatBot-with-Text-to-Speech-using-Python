@@ -1,0 +1,5 @@
+
+assemblyai
+openai
+elevenlabs
+streamlit
